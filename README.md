@@ -45,6 +45,16 @@
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020
 and transactions.market_code="Mark001";`
 
+# Power BI Report
+## Revenue_Insights
+https://github.com/adarshukla3005/Sales_Insights-using-MySQL-PowerBI/blob/main/PowerBI-Report/Revenue_Insights.png?raw=true
+
+## Profit_Analysis
+https://github.com/adarshukla3005/Sales_Insights-using-MySQL-PowerBI/blob/main/PowerBI-Report/Profit_Analysis.png?raw=true
+
+## Performance_Insights
+https://github.com/adarshukla3005/Sales_Insights-using-MySQL-PowerBI/blob/main/PowerBI-Report/Performance_Insights.png?raw=true
+
 
 Data Analysis Using Power BI
 ============================
